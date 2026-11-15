@@ -1,10 +1,15 @@
-## Evan M. README
+<head>
+  <header1>
+    Evan M's README!
+  </header1>
+</head>
 
-### Tech Stack!
+
 
 <body>
 
   <div>
+    <p align="center"> Tech Stack! </p>
       <hr>
         <p align=center>
           <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54"> </a>
