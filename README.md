@@ -1,6 +1,6 @@
 <head>
   <header>
-    <h1 align="center" >Evan M's README! </h1>
+    <h1 align="center">Evan M's README! </h1>
   </header>
 </head>
 
@@ -9,7 +9,7 @@
 <body>
 
   <div>
-    <p align="center"> Tech Stack! </p>
+    <h3 align="center"> Tech Stack! </h3>
       <hr>
         <p align=center>
           <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54"> </a>
