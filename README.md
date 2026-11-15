@@ -1,7 +1,7 @@
 <head>
-  <header1>
-    Evan M's README!
-  </header1>
+  <header>
+    <h1 align="center" >Evan M's README! </h1>
+  </header>
 </head>
 
 
