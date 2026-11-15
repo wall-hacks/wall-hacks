@@ -4,9 +4,8 @@
   </header>
 </head>
 
-
-
 <body>
+  <cite align="center"> Sometimes we sit and wait to see which way the wind would blow, not realizing we are the wind. </cite>
 
   <div>
     <h3 align="center"> Tech Stack! </h3>
