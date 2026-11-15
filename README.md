@@ -1,12 +1,38 @@
+<!DOCTYPE html>
+
 <head>
   <header>
     <h1 align="center">README.md </h1>
     <p align="center"> <img src="https://private-user-images.githubusercontent.com/221482485/620893259-8597e042-fac1-43c0-9de2-206cbcf2eebb.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQ3MjgzMDQsIm5iZiI6MTc5NDcyODAwNCwicGF0aCI6Ii8yMjE0ODI0ODUvNjIwODkzMjU5LTg1OTdlMDQyLWZhYzEtNDNjMC05ZGUyLTIwNmNiY2YyZWViYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYxMTE1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MTExNVQwNzMzMjRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yNmRjMzNiYTk2MGRlN2I5ZTlkY2QzZDhhZGVhZTQyMjRiY2RkM2MxZGNlZjljY2JiNGY3MjJmNzkxOWMyZDc0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.EWDuB3pv9PrpJx1xz4_VSxP3TafF5Obfp9wXhgwxEko"> </p>
     <p align="center"> ~~~ Everything you do, do it like there's no tomorrow. ~~~ </p>
   </header>
-</head>
 
-<body>
+
+<a>
+  <p>
+    <title>CSS Divider Example</title>
+    <style>
+        .text-divider-bg {
+            max-width: 700px;
+            background: linear-gradient(to right, #952222, transparent);
+            height: 5px;
+            margin: 20px 0;
+            position: relative;
+        }
+        .text-divider-bg span {
+            background: #fff;
+            padding: 0 10px;
+            position: relative;
+            top: -10px;
+        }
+    </style>
+  </p>
+  <p>
+    <div class="text-divider-bg">
+        <span>NEXT</span>
+    </div>
+  </p>
+
 
   <div>
     <h3 align="center"> Tech Stack! </h3>
