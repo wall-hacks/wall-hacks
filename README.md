@@ -1,9 +1,10 @@
 ## Evan M. README
 
+### Tech Stack!
+
 <body>
 
   <div>
-    <p align=center style="font-size: 60pt;"> My Tech Stack! </p>
       <hr>
         <p align=center>
           <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54"> </a>
