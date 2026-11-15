@@ -5,7 +5,7 @@
 </head>
 
 <body>
-  <cite align="center"> Sometimes we sit and wait to see which way the wind would blow, not realizing we are the wind. </cite>
+  <p align="center"> Everything you do, do it like there's no tomorrow. </p>
 
   <div>
     <h3 align="center"> Tech Stack! </h3>
