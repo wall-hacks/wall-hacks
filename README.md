@@ -1,7 +1,7 @@
 ## Evan M. README
 
 <p align=center> My Tech Stack! </p>
-<br> 
+<hr>
 <p align=center>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54"> </a>
 <a href="https://legacy.cplusplus.com/"> <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white"> <a/>
