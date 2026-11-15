@@ -1,11 +1,11 @@
 <head>
   <header>
-    <h1 align="center">Evan M's README! </h1>
+    <p align="center"> Everything you do, do it like there's no tomorrow. </p>
   </header>
 </head>
 
 <body>
-  <p align="center"> Everything you do, do it like there's no tomorrow. </p>
+  <h1 align="center">Evan M's README! </h1>
 
   <div>
     <h3 align="center"> Tech Stack! </h3>
