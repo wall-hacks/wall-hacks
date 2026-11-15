@@ -12,29 +12,26 @@
 <head>
     <title>CSS Divider Example</title>
     <style>
-        .divider-with-pseudo::before {
-            content: "";
-            display: inline-block;
-            width: 30%;
-            height: 1px;
-            background-color: #000;
-            vertical-align: middle;
-            margin-right: 10px;
+        .text-divider-bg {
+            max-width: 700px;
+            background: linear-gradient(to right, #952222, transparent);
+            height: 5px;
+            margin: 20px 0;
+            position: relative;
         }
-        .divider-with-pseudo::after {
-            content: "";
-            display: inline-block;
-            width: 30%;
-            height: 1px;
-            background-color: #000;
-            vertical-align: middle;
-            margin-left: 10px;
+        .text-divider-bg span {
+            background: #fff;
+            padding: 0 10px;
+            position: relative;
+            top: -10px;
         }
     </style>
 </head>
 
 <body>
-    <p class="divider-with-pseudo">Content Divider</p>
+    <div class="text-divider-bg">
+        <span>OR</span>
+    </div>
 </body>
 
 </html>
