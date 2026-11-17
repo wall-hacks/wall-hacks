@@ -3,7 +3,7 @@
 <head>
   <header>
     <h1 align="center">README.md </h1>
-    <p align="center"> ⋆⭒˚｡✧˖°          Everything you do, do it like there's no tomorrow.          °˖✧｡˚⭒ </p>
+    <p align="center"> ⋆⭒˚｡✧˖° Everything you do, do it like there's no tomorrow. °˖✧｡˚⭒ </p>
   </header>
 </head>
 
