@@ -3,7 +3,7 @@
 <head>
   <header>
     <h1 align="center">README.md </h1>
-    <p align="center">
+    ```
       ___           ___           ___       ___       ___     
      /\__\         /\  \         /\__\     /\__\     /\  \    
     /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
@@ -15,7 +15,7 @@
       /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
      /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
      \/__/         \/__/         \/__/     \/__/     \/__/     
-    </p>
+    ```
     <p align="center"> ~~~ Everything you do, do it like there's no tomorrow. ~~~ </p>
   </header>
 </head>
